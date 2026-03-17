@@ -1,0 +1,119 @@
+{
+    "exportId": "6996a0c3633793.94860654",
+    "batch_id": "pathwise",
+    "template_info": {
+        "symbols": 8,
+        "popups": 0,
+        "pages": 15,
+        "templates": 4,
+        "utilityPages": 5,
+        "variables": 1,
+        "images": 0,
+        "fonts": 4,
+        "contentManager": 0,
+        "contentManagerRefFields": 0,
+        "contentManager_list": []
+    },
+    "pages": [
+        {
+            "post_title": "Student Registration Page",
+            "post_name": "student-registration-page"
+        },
+        {
+            "post_title": "Instructor Registration Page",
+            "post_name": "instructor-registration-page"
+        },
+        {
+            "post_title": "About",
+            "post_name": "about"
+        },
+        {
+            "post_title": "Careers",
+            "post_name": "careers"
+        },
+        {
+            "post_title": "Articles",
+            "post_name": "articles"
+        },
+        {
+            "post_title": "Dashboard",
+            "post_name": "dashboard"
+        },
+        {
+            "post_title": "Tutor Certificate",
+            "post_name": "tutor-certificate"
+        },
+        {
+            "post_title": "Checkout",
+            "post_name": "checkout"
+        },
+        {
+            "post_title": "Cart",
+            "post_name": "cart"
+        },
+        {
+            "post_title": "Privacy Policy",
+            "post_name": "privacy-policy"
+        },
+        {
+            "post_title": "Terms and Conditions",
+            "post_name": "terms-and-conditions"
+        },
+        {
+            "post_title": "FAQ Page",
+            "post_name": "faq"
+        },
+        {
+            "post_title": "Homepage",
+            "post_name": "home"
+        },
+        {
+            "post_title": "Instructors",
+            "post_name": "instructors"
+        },
+        {
+            "post_title": "Contact Us",
+            "post_name": "contact-us"
+        }
+    ],
+    "templates": [
+        {
+            "post_title": "Article Details",
+            "post_name": "posts-single"
+        },
+        {
+            "post_title": "Courses Category",
+            "post_name": "courses"
+        },
+        {
+            "post_title": "Instructor",
+            "post_name": "instructor"
+        },
+        {
+            "post_title": "Course",
+            "post_name": "course"
+        }
+    ],
+    "utility_pages": [
+        {
+            "post_title": "Membership",
+            "post_name": "membership"
+        },
+        {
+            "post_title": "404",
+            "post_name": "404"
+        },
+        {
+            "post_title": "All Courses",
+            "post_name": "courses"
+        },
+        {
+            "post_title": "SignUp",
+            "post_name": "signup"
+        },
+        {
+            "post_title": "Login",
+            "post_name": "login"
+        }
+    ]
+}
